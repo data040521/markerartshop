@@ -1,9 +1,9 @@
 [
   {
-    "com.sweet.camera.selfie.filters.test": {
-      "am2_ba": "ca-app-pub-3940256099942544/6300978111",
-      "am2_in": "ca-app-pub-3940256099942544/1033173712",
-      "am2_na": "ca-app-pub-3940256099942544/2247696110",
+    "anime.face.changer.art": {
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
 
       "mp_ba":"b195f8dd8ded45fe847ad89ed1d016da",
       "mp_re":"252412d5e9364a05ab77d9396346d73d",
@@ -29,11 +29,6 @@
       "fb_na":"qijvR5cWgH1EvcSKrB3J3l8IG4LERNNA0AaPEWqAIRtJPhyMi7aVTRUl2NFBIwzC",
 
       "ads_list": ["am", "mp", "fb"]
-    }
-  },
-  {
-    "common": {
-      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
     }
   }
 ]
